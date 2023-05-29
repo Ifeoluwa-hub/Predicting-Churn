@@ -18,7 +18,7 @@ Data cleaning, EDA, Feature Engineering, Model Selection and Training, Model Eva
 
 ## Road Map
 - Deploy the model as a web application (probably using streamlit)
-- Try containerizing the model and deploying to AWS
+- Deploy the docker file to cloud
 
 ## Challenges
 
