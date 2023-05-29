@@ -16,9 +16,6 @@ The data used for this project was gotten from kaggle and can be accesed here ht
 ## Approach
 Data cleaning, EDA, Feature Engineering, Model Selection and Training, Model Evaluation, Deployment
 
-## Notable Insights from EDA
--
-
 ## Road Map
 - Deploy the model as a web application (probably using streamlit)
 - Try containerizing the model and deploying to AWS
