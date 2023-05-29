@@ -1,0 +1,26 @@
+﻿Insight on Demographic Analysis:
+1. For the gender feature, the churn rate between both genders is not significantly different. The churn rate for females is slightly higher, but it is negligible.
+2. From my analysis, senior citizens are more likely to churn compared to younger folks. This could be attributed to the fact that younger folk has more need for a telecom provider compared to senior citizens
+3. From my analysis, customers with no partner are more likely to churn compared to customers with partners. Also, customers with no dependents show a higher churn rate than those with dependents.
+
+From the analysis of the demographic features, whether or not a customer is a senior citizen, and whether or not they have a dependent or partner appears to be more important predictors of churn.
+
+
+Insight on Services used:
+4. Phone services: Customers that use phone services have a slightly higher propensity to churn compared to those without phone services.
+5. Also, customers with multiple lines show a higher churn rate compared to those with nine or those with no phone service at all.
+6. For internet services, customers that use Fibre Optic have a significantly higher churn rate compared to those who use DSL or those with no internet service at all.
+7. Customers with no online security, no online backup, no device protection, and no tech support show a higher churn rate compared to those with these services.
+8. Lastly, streaming services are not good predictors of churn because the difference across the groups that use a streaming service or not is negligible.
+
+
+Insights on billing method:
+9. For contract, customers with a higher contract period are less likely to churn compared to customers with a lesser contract 
+10. Churn Rate is higher for the customers who use paperless billing compared to those who don’t
+11. Customers with electronic check payment methods are more likely to churn compared to all the other payment methods. It is also important to note that most customers (over 33%) of customers use the electronic payment method.
+
+
+Insight on customer account:
+12. Most customers that churn are seen to churn within the first 10 months of using the service.
+13. Customers with higher monthly charges are more likely to churn than those with lower charges. Customers with monthly charges between 65 and 200 have a higher churn rate.
+14. The churn rate is higher for customers with lower monthly charges
