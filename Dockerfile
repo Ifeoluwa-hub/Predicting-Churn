@@ -22,9 +22,6 @@ EXPOSE 9696
 # specify the entry point
 ENTRYPOINT ["gunicorn", "--bind", "0.0.0.0:9696", "predict:app"] 
 
-#  && \
-#     rm -rf /root/.cache
-
 # Install the dependencies and packages in the requirements file
 # RUN pip install --upgrade pip
 # RUN pip install -r requirements.txt
